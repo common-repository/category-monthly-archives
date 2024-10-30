@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-27 07:36+0900\n"
+"PO-Revision-Date: 2015-08-27 07:38+0900\n"
+"Last-Translator: Hiroshi Sawai <info@info-town.jp>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: class-category-monthly-archives.php:19
+msgid "Displays monthly archives link on category page."
+msgstr ""
+
+#: class-category-monthly-archives.php:25
+msgid "Monthly Category Archives"
+msgstr ""
+
+#: class-category-monthly-archives.php:43
+msgid "Title:"
+msgstr ""
+
+#: class-category-monthly-archives.php:55
+msgid "Show post counts"
+msgstr ""
+
+#: class-category-monthly-archives.php:94
+msgid "Archives"
+msgstr ""
+
+#: class-category-monthly-archives.php:188
+#, php-format
+msgid "%2$d/%1$02d"
+msgstr ""
